@@ -29,6 +29,10 @@ Project_1_Code.ipynb : This is the cleaning code that we used to reformat the ra
 Project 1 Analysis.ipynb : This is the code where we run a few final cleaning functions and then the actual analysis of the data. This is where the conclusions and analysis methods can be found.
 
 **OUTPUT FOLDER**
-
+This folder contains any visual outputs used for preanalysis and understanding of the data set. Files in this folder are named according to their relevance.
 
 Project 1 Presentation: This file includes the slides that will be presented in class. 
+
+**Reproduction Instructions**
+
+
