@@ -1,4 +1,6 @@
-# DS-4002-Project1
+# DS-4002-Project1: Investigating Inequalities in Cancer Research Funding
+
+The goal of this project is to gather data from the NIH Website to determine whethere there is an inequal distribution of cancer research across different cancer types or treatment methods. To do this we will first harvest data from the NIH website, clean the data, and then perform keyword analysis techniques to determine relationships between project abstracts and funding amounts. 
 
 **Software and Platforms:**
 All of the code created in this project was run through the google colab platform for the ease of collaboration and sharing. Packages that are used in the file include pandas, numpy, seaborn, matplot, sklearn, and math functions. All of these package downloads are included in the code to make sure that anyone who runs the code can reproduce the results. The program was run across different computers but the online nature of the coding process prevented any problems with the type of computer platform that we individually used. 
