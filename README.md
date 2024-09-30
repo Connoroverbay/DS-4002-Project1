@@ -34,5 +34,5 @@ This folder contains any visual outputs used for preanalysis and understanding o
 Project 1 Presentation: This file includes the slides that will be presented in class. 
 
 **Reproduction Instructions**
-
+The first step for analysis replication is downloading the initial dataset indluded in the DATA folder above. Using this dataset, run the "Project_1_code.ipynb" to obtain the outputs and clean dataframe used in the analysis section. To return the results of the analysis, run the code "project 1 analysis.ipynb" which calls on the dataframe created in the first code. This should produce identical results to the ones that we achieved. 
 
