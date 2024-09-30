@@ -4,7 +4,7 @@
 All of the code created in this project was run through the google colab platform for the ease of collaboration and sharing. Packages that are used in the file include pandas, numpy, seaborn, matplot, sklearn, and math functions. All of these package downloads are included in the code to make sure that anyone who runs the code can reproduce the results. The program was run across different computers but the online nature of the coding process prevented any problems with the type of computer platform that we individually used. 
 
 
-**#File Directory:**
+**File Directory:**
 
 README.md : This document contains general information about the project and files included in this Repo
 
