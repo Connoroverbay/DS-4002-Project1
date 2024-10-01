@@ -26,9 +26,8 @@ Data appendix: This file contains explanations of the data and any important vis
 **SCRIPTS FOLDER**
 This folder contains any code used in the project:
 
-Project_1_Code.ipynb : This is the cleaning code that we used to reformat the raw data set downloaded from the NIH website. This code also generates the visualizations that we used in our original data understanding phase to direct the future analysis.
+Project 1 Code.ipynb : This is the cleaning code that we used to reformat the raw data set downloaded from the NIH website. This code also generates the visualizations that we used in our original data understanding phase. After consolidating the code, this also runs the analysis for our project.
 
-Project 1 Analysis.ipynb : This is the code where we run a few final cleaning functions and then the actual analysis of the data. This is where the conclusions and analysis methods can be found.
 
 **OUTPUT FOLDER**
 This folder contains any visual outputs used for preanalysis and understanding of the data set. Files in this folder are named according to their relevance.
@@ -36,7 +35,7 @@ This folder contains any visual outputs used for preanalysis and understanding o
 Project 1 Presentation: This file includes the slides that will be presented in class. 
 
 **Reproduction Instructions**
-The first step for analysis replication is downloading the initial dataset indluded in the DATA folder above. Using this dataset, run the "Project_1_code.ipynb" to obtain the outputs and clean dataframe used in the analysis section. To return the results of the analysis, run the code "project 1 analysis.ipynb" which calls on the dataframe created in the first code. This should produce identical results to the ones that we achieved. 
+The first step for analysis replication is downloading the initial dataset indluded in the DATA folder above. Using this dataset, run the "Project 1 code.ipynb" to obtain the outputs and clean dataframe used in the analysis section. To return the results of the analysis, continue to run the code. This should produce identical results to the ones that we achieved. 
 
 **References**
 [1]National Cancer Institute, “Common Cancer Types,” National Cancer Institute, Mar. 07, 2023. https://www.cancer.gov/types/common-cancers
